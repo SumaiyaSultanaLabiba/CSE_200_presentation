@@ -1,0 +1,48 @@
+
+“Thank you Tarana for explaining BB84.
+Good morning/afternoon, I am Sumaiya Sultana, ID: 2305044.
+I’ll cover Eavesdropping, Detection, and the Future of Quantum cryptography.
+The key question: What if someone interferes with quantum transmission?”
+
+
+“That’s exactly what quantum cryptography was built to survive.
+Here, the attacker cannot stay hidden.
+The moment Eve listens, physics exposes her.”
+
+
+“Alice sends photons to Bob.
+Eve intercepts, but she doesn’t know Alice’s basis.
+She guesses — half the time wrong.
+Wrong guesses collapse the photon into a new state.
+Evidence altered.”
+
+
+“Math is simple: right guesses cause no harm.
+Wrong guesses make Bob’s result random.
+That means 25% of Eve’s bits come out wrong.
+Her fingerprint.”
+
+
+“Alice and Bob sacrifice a sample of their key.
+If untouched, bits match.
+With Eve, errors spike to 25%.
+Unmissable — physics itself reveals her.”
+
+
+“In classical security, tapping leaves no trace.
+In quantum, tapping changes the signal.
+Eavesdropping becomes measurable.”
+
+
+“Eve detected.  
+Not suspected. Not guessed. Detected — by physics.”
+
+
+“This principle already runs in fiber‑optic QKD and satellites like Micius.
+It’s the seed of a quantum internet, where security is built into physics.
+So the opening question — What if looking at a secret could change it?  
+Now you know: it does. And that makes it unbreakable.”
+
+ 
+“Thank you everyone.”
+
