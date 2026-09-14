@@ -1,48 +1,137 @@
 
 “Thank you Tarana for explaining BB84.
 Good morning/afternoon, I am Sumaiya Sultana, ID: 2305044.
+
+** change
+
 I’ll cover Eavesdropping, Detection, and the Future of Quantum cryptography.
+
+**change
+
 The key question: What if someone interferes with quantum transmission?”
 
+**change
 
 “That’s exactly what quantum cryptography was built to survive.
+
+**Change
+
 Here, the attacker cannot stay hidden.
+
+** Change
+
 The moment Eve listens, physics exposes her.”
 
 
+**Change
+
 “Alice sends photons to Bob.
+
+**Change
+
 Eve intercepts, but she doesn’t know Alice’s basis.
+
+** Change
+
 She guesses — half the time wrong.
+
+**Change
+
 Wrong guesses collapse the photon into a new state.
 Evidence altered.”
 
+**Change
 
 “Math is simple: right guesses cause no harm.
+
+**Change
+
 Wrong guesses make Bob’s result random.
+
+**Change
+
+probability of a wrong guess
+
+**Change
+
+that is probability of Bob's bits flip is half
+
+**Change
+
 That means 25% of Eve’s bits come out wrong.
+
+**Change
+
 Her fingerprint.”
 
+**Change
 
-“Alice and Bob sacrifice a sample of their key.
+“Alice and Bob 
+
+**Change
+
+sacrifice a sample of their key.
+
+**Change
+
 If untouched, bits match.
+
+**Change
+
 With Eve, errors spike to 25%.
 Unmissable — physics itself reveals her.”
 
+Let's see how the bits disagree.
+
+**Change
+
+(pause for one second)
+
+**Change
+
+(pause for one second)
+
+**Change
 
 “In classical security, tapping leaves no trace.
 In quantum, tapping changes the signal.
 Eavesdropping becomes measurable.”
 
+**Change
+
+Now comparing the sampled bits
+
+**Change
 
 “Eve detected.  
+
+**Change
+
 Not suspected. Not guessed. Detected — by physics.”
 
+**Change
 
-“This principle already runs in fiber‑optic QKD and satellites like Micius.
+
+“This principle already runs in fiber‑optic QKD 
+
+**Change
+
+and satellites like Micius.
+
+**Change
+
 It’s the seed of a quantum internet, where security is built into physics.
-So the opening question — What if looking at a secret could change it?  
+
+**Change
+
+So the question — What if looking at a secret could change it?  
+
+**Change
+
 Now you know: it does. And that makes it unbreakable.”
 
- 
+**Change
+
 “Thank you everyone.”
+
 
